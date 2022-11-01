@@ -1,0 +1,36 @@
+<html>
+<head>
+	<title>
+		Birthday Boop!
+	</title>
+	<link rel="stylesheet" type="text/css" href="styles.css" title="Default">
+</head>
+<body>
+	<script>no=1</script><!--This is the issue number-->
+
+
+	<!--All the important code happens here-->
+	<script type="text/javascript" src="Assets/scripto.js"></script>
+
+
+
+
+	<div id="Header">Happy Birthday!</div>
+	
+  <div class="about">
+		<br><b><u><i> About </u></b></i><br>
+		<div>
+			Solve <a href="">this puzxzle</a> and send me a screenshot to earn some <i>Brownie</i> points
+		</div>
+	</div>
+	
+
+
+	<div id="Comic" class="about">
+		<img src="Crossword.png" width="800" height =1130></canvas>
+	</div>
+
+
+
+</body>
+</html>
